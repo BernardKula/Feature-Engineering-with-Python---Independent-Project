@@ -18,7 +18,7 @@ logistics and communicate the accurate time their time to their customers. You w
 required to perform various feature engineering techniques while preparing your data for
 further analysis.
 
-You will be required to go through the following:
+You will be required to go through the following:<br />
 ● Defining the Research Question<br />
 ● Data Importation<br />
 ● Data Exploration<br />
@@ -45,18 +45,18 @@ Dataset Glossary = https://bit.ly/30O3xsr
 Create your base model (ensemble regressor), then later improve the accuracy of the
 base model by performing the following feature engineering techniques:
 ● Feature improvement<br />
-○ Handle categorical features<br />
-○ Find and deal with missing values<br />
-○ Handle any outliers in your dataset<br />
+● Handle categorical features<br />
+● Find and deal with missing values<br />
+● Handle any outliers in your dataset<br />
 ● Feature scaling (normalisation or standardisation etc.)<br />
 ● Feature construction<br />
-○ Create new features i.e. speed = distance/time, manhattan distance from
+● Create new features i.e. speed = distance/time, manhattan distance from
 pick up latitude and Longitude i.e. manhattan distance, haversine
 distance, bearing, centre point etc.<br />
 ● Feature Selection<br />
-○ Filter methods<br />
-○ Feature transformation (PCA, LDA, etc)<br />
-○ Wrapper methods<br />
+● Filter methods<br />
+● Feature transformation (PCA, LDA, etc)<br />
+● Wrapper methods<br />
 
 ## Acknowledgements
 Project Source: https://bit.ly/2Y6Hzz3
