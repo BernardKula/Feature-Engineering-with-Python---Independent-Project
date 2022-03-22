@@ -43,7 +43,7 @@ Dataset Glossary = https://bit.ly/30O3xsr
 
 ## Hint<br />
 Create your base model (ensemble regressor), then later improve the accuracy of the
-base model by performing the following feature engineering techniques:
+base model by performing the following feature engineering techniques:<br />
 ● Feature improvement<br />
 ● Handle categorical features<br />
 ● Find and deal with missing values<br />
